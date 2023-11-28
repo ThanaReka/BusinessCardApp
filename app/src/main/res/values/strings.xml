@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">KURINCHILION</string>
+    <string name="quote">ANALYZE. ACT. ACHIEVE.</string>
+    <string name="phoneNumber">+1 (888) 666-4252/+1 (416) 613-8322</string>
+    <string name="emailId">support[@]kurinchilion.com</string>
+    <string name="website_address">https://kurinchilion.com/</string>
+</resources>
